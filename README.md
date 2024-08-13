@@ -5,7 +5,8 @@
 - 📫 How to reach me my number +55(65)9802-6541
 - 😄 Pronouns: non capisco.
 - ⚡ Fun fact: io amo l'italia, sono uno studente della lingua. Io sono spossato con una bella donna, mio caro Sofia. Anche sono uno studente della senac(ms), studende de programming.
--  mia moglie è mia vita, io sono Brasiliano
+- mia moglie è mia vita, io sono Brasiliano.
+- Non capisco mui bene inglese 
 <!---
 Daniel-162708/Daniel-162708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
